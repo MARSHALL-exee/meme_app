@@ -15,10 +15,6 @@ A dynamic and colorful Flutter meme browser that pulls trending memes from Reddi
 
 ---
 
-
-
----
-
 ## Technologies Used 🛠️
 
 * **Flutter**: Cross-platform mobile framework
