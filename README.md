@@ -17,7 +17,7 @@ A dynamic and colorful Flutter meme browser that pulls trending memes from Reddi
 
 ## Screenshots 📱
 
-*Add screenshots or GIFs here showing memes loading, the color cards, and the refresh flow.*
+*Add screenshots or GIFs here showing memes loading, the color cards, and the refresh flow.
 
 ---
 
